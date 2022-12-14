@@ -1,8 +1,3 @@
-/*
- * File: 1000-sort_deck.c
- * Auth: Brennan D Baraban
- */
-
 #include "deck.h"
 
 int _strcmp(const char *s1, const char *s2);
