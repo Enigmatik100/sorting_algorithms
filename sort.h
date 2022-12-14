@@ -5,6 +5,11 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include <stdio.h>
+
+/* Comparison direction macros for bitonic sort */
+#define UP 0
+#define DOWN 1
+
 /**
  * struct listint_s - Doubly linked list node
  *
